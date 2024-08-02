@@ -8,5 +8,5 @@ This is a simple webpage that can convert Bash to PowerShell. It would be useful
 网页编写 ｜ Webpage: [https://tabler.io](https://tabler.io)  
 转换脚本 ｜ Conversion script: [https://github.com/nyabkun/bash-to-powershell-converter](https://github.com/nyabkun/bash-to-powershell-converter)
 
-请多多支持原作者！
+请多多支持原作者！  
 Please Support them!
